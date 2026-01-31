@@ -1,1 +1,1 @@
-0x5A2D6464C1d54c1C430018100CdDefCaa1f8B136
+https://github.com/2dust/v2rayNG/releases/download/1.10.32/v2rayNG_1.10.32_universal.apk
